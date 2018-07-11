@@ -1,0 +1,3 @@
+Mutator=(ClassName=UT3GoliathBeta1.Mut_UT3Goliath,GroupName=Goliath,IconMaterialName=MutatorArt.nosym,FriendlyName=UT3GoliathBeta1.Mut_UT3Goliath.FriendlyName,Description=UT3GoliathBeta1.Mut_UT3Goliath.Description,FriendlyName=UT3GoliathBeta1.Mut_UT3Goliath.FriendlyName,FallbackName="UT3 Goliath",FallbackDesc="This mutator replaces the Goliath with the Goliath from UT3.")
+Vehicle=(ClassName=UT3GoliathBeta1.UT3Goliath,FriendlyName=UT3GoliathBeta1.UT3Goliath.VehicleNameString,FallbackName="UT3 Goliath",FallbackDesc="UT3 Goliath")
+Vehicle=(ClassName=UT3GoliathBeta1.UT3GoliathTurretPawn,FriendlyName=UT3GoliathBeta1.UT3GoliathTurretPawn.VehicleNameString,FallbackName="Goliath Minigun Turret",FallbackDesc="Goliath Minigun Turret")
